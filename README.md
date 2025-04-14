@@ -1,6 +1,6 @@
 <h1 align="center">Crunchyroll Unofficial</h1>
 <p align="center">
-  An unofficial app for Crunchyroll on Linux <img src="https://github.com/user-attachments/assets/e2859b6b-95a3-4b8c-a584-e4bb98f34858" width="30" height="30" alt="emoji">
+  An unofficial app for Crunchyroll on Linux <img src="https://github.com/user-attachments/assets/8acc53a4-be94-4840-8c9f-64a29a57f271" width="30" height="30" alt="emoji">
 </p>
 
 
