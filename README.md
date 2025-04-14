@@ -9,7 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/20aa9f54-b4b7-4da7-a4b0-f7275d6f1151" alt="App Screenshot" style="max-width: 100%; height: auto;">
+  <img src="https://github.com/user-attachments/assets/ea95a1f5-0b14-44eb-bc14-8e8eff5f38fa"
+alt="App Screenshot" style="max-width: 100%; height: auto;">
 </p>
 
 
