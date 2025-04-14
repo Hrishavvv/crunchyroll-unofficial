@@ -18,8 +18,11 @@ alt="App Screenshot" style="max-width: 100%; height: auto;">
 <h2 align="center">Usage</h2>
 
 Download the ```.zip``` file from the ```Releases``` section and unzip it in your pc.
-
+OR
+Use the following command:
 ```bash
+sudo apt update && sudo apt upgrade -y && sudo apt install wget
+wget https://github.com/Hrishavvv/crunchyroll-unofficial/releases/download/v1.0/crunchyroll-linux-x64.zip
 unzip crunchyroll-linux-x64
 ```
 
