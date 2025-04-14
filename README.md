@@ -21,7 +21,7 @@ Download the ```.zip``` file from the ```Releases``` section and unzip it in you
 OR
 Use the following command:
 ```bash
-sudo apt update && sudo apt upgrade -y && sudo apt install wget
+sudo apt update && sudo apt upgrade -y && sudo apt install wget -y
 wget https://github.com/Hrishavvv/crunchyroll-unofficial/releases/download/v1.0/crunchyroll-linux-x64.zip
 unzip crunchyroll-linux-x64
 ```
