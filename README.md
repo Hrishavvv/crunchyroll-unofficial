@@ -41,7 +41,7 @@ Run the app using :
 
 <h3 align="center">Making an Application Menu Shortcut for Crunchyroll</h3>
 
-Open a ```.desktop``` file of your desired name.
+Create a ```.desktop``` file of your desired name.
 
 ```bash
 sudo nano ~/.local/share/applications/crunchyroll.desktop
@@ -63,7 +63,7 @@ Comment=Crunchyroll Web App
 
 Replace ```PATH``` with the actual PATH that you noted earlier. 
 
-Once updated close the ```nano``` text editor by Ctrl + X followed by Ctrl + Y followed by ENTER.
+Once updated, close the ```nano``` text editor by ``Ctrl + X`` followed ``Y`` followed by ``ENTER``.
 
 Once you exit run :
 ```bash 
