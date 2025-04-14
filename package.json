@@ -1,0 +1,13 @@
+{
+  "name": "crunchyroll",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "./electron-widevine/electron .",
+    "dist": "electron-packager . crunchyroll --platform=linux --arch=x64 --out=./dist --overwrite --icon=./resources/app/icon.png --electron-binary=./electron-widevine/electron --electron-version=35.1.5"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron-packager": "^15.5.0"
+  }
+}
