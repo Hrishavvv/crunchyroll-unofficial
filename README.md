@@ -8,6 +8,12 @@
   This is an unofficial application and is not associated with or endorsed by Crunchyroll, LLC. The app is an Electron wrapper created for personal use only. All content, trademarks, and logos are the property of their respective owners. Use of this app is for personal purposes only and not for commercial distribution.
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/20aa9f54-b4b7-4da7-a4b0-f7275d6f1151" alt="App Screenshot" style="max-width: 100%; height: auto;">
+</p>
+
+
+
 <h2 align="center">Usage</h2>
 
 Download the ```.zip``` file from the ```Releases``` section and unzip it in your pc.
