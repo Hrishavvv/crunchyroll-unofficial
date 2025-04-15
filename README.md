@@ -36,7 +36,15 @@ Change directory to the downloaded folder.
 cd crunchyroll-unofficial
 ```
 
-Once inside the downloaded folder run :
+<strong> Once inside ```crunchyroll-unofficial``` folder, you can simply auto install using : </strong>
+```bash
+chmod +x install.sh
+./install.sh
+```
+
+OR
+
+<strong> You can manually complete the setup : </strong>
 ```bash
 pwd
 ```
