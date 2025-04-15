@@ -15,7 +15,7 @@ alt="App Screenshot" style="max-width: 100%; height: auto;">
 
 
 
-<h2 align="center">Usage</h2>
+<h2 align="center">Installation</h2>
 
 Download the ```.zip``` file from the ```Releases``` section and unzip it in your pc.
 
@@ -26,74 +26,14 @@ Use the following command:
 sudo apt update && sudo apt upgrade -y && sudo apt install wget -y
 wget https://github.com/Hrishavvv/crunchyroll-unofficial/releases/download/v1.0/crunchyroll-linux-x64.zip
 unzip crunchyroll-linux-x64
-```
-
-
-
-Change directory to the downloaded folder.
-
-```bash
 cd crunchyroll-unofficial
 ```
 
-<strong> Once inside ```crunchyroll-unofficial``` folder, you can simply auto install using : </strong>
+<strong> Once inside ```crunchyroll-unofficial``` folder, you can install the app using : </strong>
 ```bash
 chmod +x install.sh
 ./install.sh
 ```
 
-OR
-
-<strong> You can manually complete the setup : </strong>
-```bash
-pwd
-```
-
-and note the ```PATH```.
-
-
-
-Run the app using :
-
-```bash
-./electron-widevine/electron .
-```
-
-<h3 align="center">Making an Application Menu Shortcut for Crunchyroll</h3>
-
-
-Change directory to ```usr``` folder.
-```bash
-cd /
-```
-
-Create a ```.desktop``` file of your desired name.
-
-```bash
-sudo nano /usr/share/applications/crunchyroll.desktop
-```
-
-
-Write the content of the ```.desktop``` file :
-```bash                
-[Desktop Entry]
-Name=Crunchyroll
-Exec=PATH/electron-widevine/electron PATH/main.js
-Icon=PATH/resources/app/icon.png
-Terminal=false
-Type=Application
-Categories=Video;Entertainment;
-Comment=Crunchyroll Web App
-#StartupWMClass=Crunchyroll
-```
-
-Replace ```PATH``` with the actual PATH that you noted earlier. 
-
-Once updated, close the ```nano``` text editor by ``Ctrl + X`` followed ``Y`` followed by ``ENTER``.
-
-Once you exit run :
-```bash 
-sudo update-desktop-database /usr/share/applications
-```
-
 Now you should have your Crunchyroll App in your system which you can access from the Application Menu.
+
