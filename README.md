@@ -53,10 +53,16 @@ Run the app using :
 
 <h3 align="center">Making an Application Menu Shortcut for Crunchyroll</h3>
 
+
+Change directory to ```usr``` folder.
+```bash
+cd /
+```
+
 Create a ```.desktop``` file of your desired name.
 
 ```bash
-sudo nano ~/.local/share/applications/crunchyroll.desktop
+sudo nano /usr/share/applications/crunchyroll.desktop
 ```
 
 
@@ -79,7 +85,7 @@ Once updated, close the ```nano``` text editor by ``Ctrl + X`` followed ``Y`` fo
 
 Once you exit run :
 ```bash 
-update-desktop-database ~/.local/share/applications
+sudo update-desktop-database /usr/share/applications
 ```
 
 Now you should have your Crunchyroll App in your system which you can access from the Application Menu.
