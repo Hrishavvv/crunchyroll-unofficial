@@ -14,6 +14,14 @@ alt="App Screenshot" style="max-width: 100%; height: auto;">
 </p>
 
 
+<h2 align="center">Release Note</h2>
+
+This release includes a custom-compiled Electron binary bundled with **Widevine CDM**, enabling full DRM support out-of-the-box — something most PWAs (Progressive Web Apps) often struggle with on Linux platforms, especially for streaming services like Crunchyroll.
+
+The source code is provided in a raw, unbundled form, allowing you to **customize the app to your liking**. While it's currently a lightweight wrapper around the Crunchyroll website, it comes with a few practical enhancements that make it a more stable and native alternative to standard browser-based experiences.
+
+Enjoy seamless playback and a more integrated desktop feel — without the usual DRM headaches.
+
 
 <h2 align="center">Installation</h2>
 
